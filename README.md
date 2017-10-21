@@ -1,7 +1,5 @@
 # SomeNotesAboutProgrammingOn_iOS
 
----
-
 Some notes about my iOS programming for the last two years
 
 - Don’t use underscore for **private function** or **private variable**
