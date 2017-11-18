@@ -1,6 +1,9 @@
 # SomeNotesAboutProgrammingOn_iOS
 
-Some notes about my iOS programming for the last two years
+Although I started PROGRAMMING in 2010, mainly in iOS area, the following summary is what I really get from the last two years.
+Thanks for those people who share their knowledge and experience to me. I am very thankful.
+
+### Some notes about my iOS programming for the last two years
 
 - Don’t use underscore for **private function** or **private variable**
 - Make each parameter name or argument name meaningful
