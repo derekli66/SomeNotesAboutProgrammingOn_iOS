@@ -20,3 +20,5 @@ Thanks for those people who share their knowledge and experience to me. I am ver
 - Wraps **Cpp class** in **Objective-C class** if we want to carry the **Cpp class** around the whole project. Make memory management as simple as possible.
 - When setting a property in Objective-C, always think carefully when to use, atomic, nonatomic, strong, weak, copy, assign.
 - Are we using mutable container in a multi-threading circumstance? How to avoid it or how to protect our resource?
+- **Don't let Copy and Paste be your coding habit!. Write each line of code by typing on your keyboard!**
+- Get rid of code smell before you smell it.
